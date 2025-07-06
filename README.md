@@ -13,5 +13,4 @@
 - Tıp Fakültesi Öğrencileri
 
 
-## Product Backlog URL
-[Buraya Trello veya Miro panonuzun linkini ekleyin]
+
