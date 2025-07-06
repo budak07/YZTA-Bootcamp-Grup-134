@@ -69,3 +69,10 @@ Güçlü Yönler: Kaggle kullanımı, geliştirme sürecini ciddi anlamda hızla
 Gelişim Alanları: API'den dönen yanıtların yapılandırılması (JSON formatı gibi) ve hata yönetimi, bir sonraki sprint'te odaklanılması gereken teknik konulardır.
 
 
+9.Proje Prototip Çıktısı
+<img width="902" alt="Ekran Resmi 2025-07-06 20 36 08" src="https://github.com/user-attachments/assets/1dce2f11-e98e-4f9b-a5db-71ab75ad8c2c" />
+
+
+
+
+
