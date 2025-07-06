@@ -11,7 +11,7 @@
 ## Hedef Kitle
 - Doktorlar
 - Tıp Fakültesi Öğrencileri
-- Pediatri ve Onkoloji Uzmanları
+
 
 ## Product Backlog URL
 [Buraya Trello veya Miro panonuzun linkini ekleyin]
