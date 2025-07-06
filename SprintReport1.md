@@ -68,7 +68,4 @@ Güçlü Yönler: Kaggle kullanımı, geliştirme sürecini ciddi anlamda hızla
 
 Gelişim Alanları: API'den dönen yanıtların yapılandırılması (JSON formatı gibi) ve hata yönetimi, bir sonraki sprint'te odaklanılması gereken teknik konulardır.
 
-9. Ürün Geliştirme Süreci (Product Backlog) URL'i
 
-Projenin genel yol haritası ve gelecek sprint'ler için planlanan görevler aşağıdaki Trello panosunda güncel olarak tutulmaktadır:
-https://trello.com/b/[PanonuzunLinki]/proje-synapse
