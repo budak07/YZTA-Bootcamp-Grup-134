@@ -7,6 +7,7 @@
 ## Takım Üyeleri
 
 | [Hasan BUDAK] | Developer,Product Owner,Scrum Master |
+| [Cemre Dağ] | Developer,Product Owner,Scrum Master |
 
 ## Hedef Kitle
 - Doktorlar
