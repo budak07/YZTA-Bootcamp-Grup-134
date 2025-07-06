@@ -6,7 +6,7 @@
 
 ## Takım Üyeleri
 
-| [Hasan BUDAK] | Proje Geliştiricisi |
+| [Hasan BUDAK] | Developer,Product Owner,Scrum Master |
 
 ## Hedef Kitle
 - Doktorlar
