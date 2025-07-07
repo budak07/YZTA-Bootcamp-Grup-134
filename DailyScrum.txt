@@ -1,0 +1,41 @@
+---------------------------------------------------
+SYNAPSE PROJESİ - DAILY SCRUM TOPLANTI KAYDI
+---------------------------------------------------
+Tarih: 27.06.2025
+Sprint: 1. Sprint, 8. Gün
+Katılımcılar: Hasan BUDAK (Scrum Master), Cemre Dağ, Yusuf Sait Sakoğlu
+---------------------------------------------------
+
+### GÜNCELLEMELER ###
+
+**1. Hasan BUDAK (Scrum Master)**
+
+* **Dün ne yaptım?:** Ekibin çalışmaya başlayabilmesi için proje yönetim aracımız olan Jira panosunu oluşturdum ve Sprint 1 görevlerini panoya ekledim. Kaggle ortamının ve GitHub reposunun kurulumunu tamamlayarak ekibin erişimlerini kontrol ettim.
+* **Bugün ne yapacağım?:** Cemre ve Yusuf'un karşılaştığı API yetkilendirme sorununu çözmek için onlarla birlikte çalışacağım. Ekibin önündeki bu engeli kaldırmak bugünkü önceliğim. Ayrıca `README.md` dosyasının son halini gözden geçireceğim.
+* **Herhangi bir engelleyici var mı?:** Ekibin karşılaştığı API hatası şu anki tek engelleyici, çözümü üzerine odaklandım.
+
+---
+
+**2. Cemre DAĞ (Developer)**
+
+* **Dün ne yaptım?:** Yusuf'un hazırladığı prompt taslağını kullanarak Kaggle Notebook üzerinde Gemini API'sini çağıran Python kodunu yazdım. Ancak ilk denemelerde yetkilendirme (authentication) hatası aldık.
+* **Bugün ne yapacağım?:** Hasan'ın desteğiyle bu yetkilendirme sorununu çözdükten sonra, ilk başarılı API çağrısını yapıp çıktıyı almayı hedefliyorum. Bu tamamlanır tamamlanmaz, projenin ana `README.md` dosyasını teknik detaylarla doldurmaya başlayacağım.
+* **Herhangi bir engelleyici var mı?:** Şu an için tek engelleyici API yetkilendirme sorunu.
+
+---
+
+**3. Yusuf Sait SAKOĞLU (Developer)**
+
+* **Dün ne yaptım?:** Temel analoji üretimi için ilk prompt taslağını (v1) hazırladım ve Cemre'ye test etmesi için ilettim. Prompt'un farklı senaryolarda nasıl davranacağını düşündüm.
+* **Bugün ne yapacağım?:** Cemre'nin alacağı ilk başarılı API çıktısına göre prompt'u iyileştirmek için hazır bekliyorum. Çıktının yaratıcılığını ve doğruluğunu artırmak için farklı komutlar ve yaklaşımlar deneyeceğim.
+* **Herhangi bir engelleyici var mı?:** Cemre'nin API'den başarılı bir yanıt almasını bekliyorum, şu an için başka bir engelleyici yok.
+
+---------------------------------------------------
+
+### ALINAN KARARLAR / SONRAKİ ADIMLAR ###
+
+* **Aksiyon:** Hasan, API anahtarının Kaggle Secrets'a doğru bir şekilde eklenip eklenmediğini kontrol edecek ve gerekirse anahtarı yeniden oluşturarak ekibe iletecek.
+* **Aksiyon:** API sorunu çözüldüğünde, Cemre ve Yusuf ilk çıktıyı birlikte analiz ederek prompt'un v2 versiyonu için çalışmaya başlayacaklar.
+* **Bilgilendirme:** Ekip, API bağlantı sorunu çözülür çözülmez haberleşerek durumu yeniden değerlendirecek.
+
+---------------------------------------------------
